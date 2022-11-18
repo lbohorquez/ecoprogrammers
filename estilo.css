@@ -1,0 +1,11 @@
+.dropdown-item2{
+    color: white;
+}
+.w-100{
+    width: 80%;
+    height: 600px;
+}
+.gridi{
+    display: grid;
+    grid-template-columns: repeat (3, 1fr);
+}
